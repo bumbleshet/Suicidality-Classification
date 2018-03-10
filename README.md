@@ -1,5 +1,5 @@
 # Suicidality-Classification
-This program classifies tweets in Python if it is safe to ignore, possibly concerning, and strongly concerning using Supervised Learning.
+This program classifies tweets in Python if it is safe to ignore, possibly concerning, and strongly concerning using Support Vector Machine.
 
 Note: the data is not well refined.
 
